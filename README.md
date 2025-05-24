@@ -10,6 +10,6 @@ This static website is inspired by modern e-commerce landing pages, focused on m
 ✔️ Built using Flexbox for layout control  
 
 🔗 Check it out on GitHub:  
-👉 [Insert your GitHub link here]
+👉(https://shajithabarveen77.github.io/GREENDEN-tailwindcss/contact.html)
 
 #HTML #CSS #Flexbox #ResponsiveDesign #FrontendDevelopment #WebDesign #PlantShop #EcommerceUI #GreenDen #VisualStudioCode #100DaysOfCode
